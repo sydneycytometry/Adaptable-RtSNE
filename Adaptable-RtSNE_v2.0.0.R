@@ -1,14 +1,14 @@
-# Adaptable RtSNE
+# Adaptable RtSNE v2.0.0
 
     # Description
-      # Running bh-tSNE on data from FCS or CSV files, with additional functionality
+      # Running bh-tSNE on data from FCS or CSV files, with additional functionality including phenograph
       # Read data from FCS files, run tSNE, write back to FCS file with new tSNE values
       # Prints the 'verbose' from the tSNE analysis as well
       # Most parameters that control the tSNE algorithm are modifiable in the Rtsne function
 
     # Details
       # Author: Thomas Myles Ashhurst
-      # Published: 2017-09-18
+      # Published: 2017-10-11
       # Contact: tomashhurst@gmail.com
       # Github: https://github.com/sydneycytometry/Adaptable-RtSNE
       # Website: www.sydneycytometry.org.au
