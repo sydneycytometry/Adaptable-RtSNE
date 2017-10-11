@@ -17,7 +17,7 @@ If you use this script in your work, please cite this github using the informati
 
 **v1.0.0** - original script
 
-*Ashhurst, T. M. (2017). Adaptable RtSNE v1.0.0. GitHub repository. Repository: hhttps://github.com/sydneycytometry/Adaptable-RtSNE.*
+*Ashhurst, T. M. (2017). Adaptable RtSNE v1.0.0. GitHub repository. Repository: https://github.com/sydneycytometry/Adaptable-RtSNE.*
 
 
 ### Citation in EndNote ###
@@ -37,3 +37,4 @@ If you use this script in your work, please cite this github using the informati
 
 *Website (copy the whole line) = 	Repository: https://github.com/sydneycytometry/Adaptable-RtSNE*
 
+*DOI will follow shortly*
