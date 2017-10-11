@@ -1,4 +1,4 @@
-# tSNEplots
+# Adaptable RtSNE
 ### Description ###
 A script to utilise the flexibility of a modifiable RtSNE package. It reads data from .csv or .fcs files, manages the data, runs tSNE, runs phenograph (only v2.0.0 and above), then writes the data to .csv and .fcs files.
 
