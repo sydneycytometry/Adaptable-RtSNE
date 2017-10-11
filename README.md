@@ -11,7 +11,7 @@ If you use this script in your work, please cite this github using the informati
 
 ### Version history ###
 
-**v2.0.0** - updated to include 'global' colour, X, and Y scaling (most recent)
+**v2.0.0** - major update to script structure, and incorporation of phenograph
 
 *Ashhurst, T. M. (2017). Adaptable RtSNE v2.0.0. GitHub repository. Repository: https://github.com/sydneycytometry/Adaptable-RtSNE.*
 
